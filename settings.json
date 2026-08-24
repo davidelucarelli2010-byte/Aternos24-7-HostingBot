@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LivornoVanilla.aternos.me:30172",
+    "ip": "LivornoVanilla.aternos.me",
     "port": 30172,
     "version": "",
     "try-creative": false
